@@ -1,4 +1,0 @@
-{
-    "text": "On the project level, essential measures include ensuring the presence of a README.md file to provide crucial project information and setting up a dedicated virtual environment to avoid package conflicts, especially in multi-user environments. Additionally, maintaining a requirements.txt file streamlines project setup for collaborators.",
-    "translated": "A matakin aikin, matakai masu mahimmanci sun haɗ a da tabbatar da kasancewar README. md fayil don ba da bayanan aikin mahimmanci da kafa yanayin kama-da-wane don guje wa rikice-rikice, musamman a cikin. fayilɗ in txt yana sauƙ aƙ aƙ aƙ a saitin aikin don masu haɗ in gwiwa."
-}
